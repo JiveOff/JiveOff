@@ -3,11 +3,11 @@
 I am Antoine, a hobby Full-Stack Javascript developer. I also love designing UI/UX.
 I am currently studying at the Université de Paris as a first year of DUT Informatique (eq. of CS).
 
-I am fluent in:
-- JavaScript/TypeScript
-  - Front-end and back-end
-- Lua
-  - Roblox Games/Tools
+> I am fluent in:
+> - JavaScript/TypeScript
+>   - Front-end and back-end
+> - Lua
+>   - Roblox Games/Tools
 
 ### ⚡ My development habits
 
