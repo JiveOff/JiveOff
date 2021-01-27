@@ -29,7 +29,7 @@ I mainly work with the Vue.js framework/ecosystem for front-end applications and
     - SCR Assistance: Assistance Bot with a custom ticket system
     - SCR Transcript: A TTS/STT Bot that connects to voice channels to help supervisors+ that have disabilities
 
-### 😄 Pronouns: He/him
+### 😄 Pronouns: ``He/him``
 
 ### 💬 Social Links
 
