@@ -27,7 +27,7 @@ I mainly work with the Vue.js framework/ecosystem for front-end applications and
     - SCR Admin: Moderation Bot with API tools
     - SCR Trainer: Bot showing the next trainings
     - SCR Assistance: Assistance Bot with a custom ticket system
-    - SCR Transcript: A TTS/STT Bot that connects to voice channels to help our disabled supervisors
+    - SCR Transcript: A TTS/STT Bot that connects to voice channels to help supervisors+ that have disabilities
 
 ### 😄 Pronouns: He/him
 
