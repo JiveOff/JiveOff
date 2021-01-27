@@ -7,6 +7,7 @@ I am fluent in:
 - JavaScript/TypeScript
   - Front-end and back-end
 - Lua
+  - Roblox Games/Tools
 
 ### ⚡ My development habits
 
