@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-> I am Antoine, a hobby Full-Stack Javascript developer. I love designing & integrating UI/UX for personal projects. I am currently studying the equivalent of Computer Science at the Université de Paris as a first year of DUT Informatique.
+> I am Antoine, a hobby Full-Stack Javascript developer. I love designing & integrating UI/UX for personal projects. I am currently studying the equivalent of Computer Science at the Université de Paris as a second year of DUT Informatique (equivalent of Computer Science).
 
 I am fluent in:
 - JavaScript/TypeScript
