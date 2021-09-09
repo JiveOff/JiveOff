@@ -36,3 +36,5 @@ I mainly work with the Vue.js framework/ecosystem for front-end applications and
 - [Twitter](https://twitter.com/JiveOff)
 - [Twitch](https://twitch.tv/jiveoff)
 - [Discord](https://discordapp.com/users/186156892379283456)
+
+![Metrics](https://github.com/JiveOff/JiveOff/blob/main/github-metrics.svg)
