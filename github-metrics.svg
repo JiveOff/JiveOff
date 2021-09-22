@@ -1448,7 +1448,7 @@
                                 <div class="infos">
                                     <div class="name">Articulation</div>
                                     <div class="artist">Juggernaut.</div>
-                                    <div class="played-at">Played at 09:54 on 22/09/2021</div>
+                                    <div class="played-at">Played at 11:34 on 22/09/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -2612,7 +2612,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22/09/2021, 12:17 (timezone Europe/Paris) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 22/09/2021, 13:13 (timezone Europe/Paris) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
