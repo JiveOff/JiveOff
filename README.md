@@ -16,7 +16,7 @@
 >   - Technologies used: **HTML5/CSS3**, **SASS**, **Bootstrap**, **Vue.js** (Vuex, Vue-Router...).
 > - [Website for the Beat Saber Nationals](https://beatsabernationals.com)
 >   - Technologies used: **HTML5/CSS3**, **SASS**, **Bulma** (integrated with [buefy](https://github.com/buefy/buefy)), **Vue.js**.
-> - Stream Overlay w/ tools for the Beat Saber Nationals (private)
+> - [Stream Overlay w/ tools for the Beat Saber Nationals](https://www.twitch.tv/bsnationals)
 >   - Technologies used: **HTML5/CSS3**, **SASS**, **Bulma** (integrated with [buefy](https://github.com/buefy/buefy)), **Vue.js**, **Socket.io**. 
 > - [Stepford County Railway Discord bots](https://discord.gg/scr)
 >   - Maintaining 4 bots made from scratch and various tools for smooth operations within the group (30k+ guild members)
