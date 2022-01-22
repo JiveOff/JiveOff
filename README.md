@@ -31,7 +31,7 @@
 >   - Technologies used: **Vue.js**, **Socket.io**.
 >   - Design crafted on **Figma**.
 
-### 💬 Social Links
+### 💬 Useful Links
 
 > - [Twitter](https://twitter.com/JiveOff)
 > - [Twitch](https://twitch.tv/jiveoff)
