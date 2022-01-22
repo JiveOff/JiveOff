@@ -26,6 +26,9 @@
 >   -   **SCR Transcript** TTS/STT Bot that connects to voice channels to help supervisors+ that have disabilities.
 > - [Some Front-end components for ScoreSaber](https://scoresaber.com)
 >   - Technologies used: **Svelte**
+> - [Among Impact](https://among-impact.jiveoff.fr)
+>   - Game for people playing the co-op mode of Genshin Impact. Only French is supported at the moment.
+>   - Technologies used: **Vue.js**, **Socket.io**
 
 ### 💬 Social Links
 
