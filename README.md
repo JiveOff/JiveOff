@@ -33,4 +33,4 @@
 - [Twitch](https://twitch.tv/jiveoff)
 - [Discord](https://discordapp.com/users/186156892379283456)
 
-![Metrics](https://github.com/JiveOff/JiveOff/blob/main/github-metrics.svg)
+![Metrics](https://github.com/JiveOff/JiveOff/raw/main/github-metrics.svg)
