@@ -9,9 +9,9 @@
 ### 🤓 Examples of my work
 
 > - [Website for my first University project](https://pjs1.jiveoff.fr)
->   - Technologies used: **HTML5/CSS3**, **SASS**, **Vue.js** (first time using it woo), **Firebase** (integrated with Vue.js thanks to [vuejs/vuefire](https://github.com/vuejs/vuefire)).
+>   - Technologies used: **HTML5/CSS3**, **SASS**, **Vue.js** (first time using it woo), **Firebase** ([vuejs/vuefire](https://github.com/vuejs/vuefire)).
 > - [Website for my second University project](https://eweb.jiveoff.fr)
->   - Technologies used: **HTML5/CSS3**, **SASS**, **Bootstrap** (pls don't blame me), **Vue.js** (Vuex, Vue-Router...).
+>   - Technologies used: **HTML5/CSS3**, **SASS**, **Bootstrap**, **Vue.js** (Vuex, Vue-Router...).
 > - [Website for the Beat Saber Nationals](https://beatsabernationals.com)
 >   - Technologies used: **HTML5/CSS3**, **SASS**, **Bulma** (integrated with [buefy](https://github.com/buefy/buefy)), **Vue.js**.
 > - Stream Overlay w/ tools for the Beat Saber Nationals (private)
