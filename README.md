@@ -28,7 +28,8 @@
 >   - Technologies used: **Svelte**
 > - [Among Impact](https://among-impact.jiveoff.fr)
 >   - Game for people playing the co-op mode of Genshin Impact. Only French is supported at the moment.
->   - Technologies used: **Vue.js**, **Socket.io**
+>   - Technologies used: **Vue.js**, **Socket.io**.
+>   - Design crafted on **Figma**.
 
 ### 💬 Social Links
 
