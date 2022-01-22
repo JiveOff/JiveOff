@@ -17,7 +17,7 @@
 > - [Website for the Beat Saber Nationals](https://beatsabernationals.com)
 >   - Technologies used: **HTML5**, **Sass**, **Bulma** (integrated with [buefy](https://github.com/buefy/buefy)), **Vue.js**.
 > - [Stream Overlay w/ tools for the Beat Saber Nationals](https://www.twitch.tv/bsnationals)
->   - Technologies used: **HTML5**, **Sass**, **Bulma** (integrated with [buefy](https://github.com/buefy/buefy)), **Vue.js**, **Socket.io**. 
+>   - Technologies used: **HTML5**, **Sass**, **Vue.js**, **Socket.io**. 
 > - [Stepford County Railway Discord bots](https://discord.gg/scr)
 >   - Maintaining 4 bots made from scratch and various tools for smooth operations within a group of 200k members.
 >   -   **SCR Admin** Moderation Bot with API tools.
