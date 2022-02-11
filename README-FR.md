@@ -1,3 +1,5 @@
+![Metrics](https://github.com/JiveOff/JiveOff/raw/main/github-metrics.svg)
+
 ## Salut 👋
 
 > Je suis Antoine, développeur JavaScript Full-Stack à ses heures perdues. J'adore concevoir et intégrer des interfaces utilisateur pour des petits projets personnels. Je suis actuellement en DUT Informatique à l'IUT de Paris - Rives de Seine.
@@ -37,4 +39,4 @@
 > - [Twitch](https://twitch.tv/jiveoff)
 > - [Serveur Discord](https://discord.jiveoff.fr)
 
-![Metrics](https://github.com/JiveOff/JiveOff/raw/main/github-metrics.svg)
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jiveoff" style="width: 450px">
