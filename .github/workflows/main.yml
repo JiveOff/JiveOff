@@ -25,7 +25,7 @@ jobs:
           plugin_isocalendar: no
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
-          plugin_music: yes
+          plugin_music: false
           plugin_music_limit: 4
           plugin_music_mode: recent
           plugin_music_played_at: yes
