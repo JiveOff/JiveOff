@@ -1,3 +1,5 @@
+![Metrics](https://github.com/JiveOff/JiveOff/raw/main/github-metrics.svg)
+
 ## Hello there 👋
 
 > I am Antoine, a hobby Full-Stack Javascript developer. I love designing & integrating UI/UX for personal projects. I am currently studying the equivalent of Computer Science at the Université de Paris as a second year of DUT Informatique (equivalent of Computer Science).
@@ -37,4 +39,4 @@
 > - [Twitch](https://twitch.tv/jiveoff)
 > - [Serveur Discord](https://discord.jiveoff.fr)
 
-![Metrics](https://github.com/JiveOff/JiveOff/raw/main/github-metrics.svg)
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jiveoff" style="width: 450px">
