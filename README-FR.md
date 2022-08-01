@@ -2,11 +2,9 @@
 
 ## Salut 👋
 
-> Je suis Antoine, développeur JavaScript Full-Stack à ses heures perdues. J'adore concevoir et intégrer des interfaces utilisateur pour des petits projets personnels. Je suis actuellement en DUT Informatique à l'IUT de Paris - Rives de Seine.
+> Je suis Antoine, développeur JavaScript Full-Stack à ses heures perdues. J'adore concevoir et intégrer des interfaces utilisateur pour des petits projets personnels et communautaires. J'ai en ma possession un DUT Informatique et je suis actuellement en cursus d'ingénieur "LSI" à l'EFREI.
 
-> Je travaille la majorité du temps sur des applis front écrites en JS/TS mais je travaille aussi sur des applis back.
-
-> Mes applications front sont faites avec le framework Vue.js et les applis back, en Node.js avec TypeScript. ⚡
+> Je travaille à fond avec le framework Vue.js pour mes applications front et du Node/TS pour mes applis back. ⚡
 
 ### 😄 Pronoms: ``He/him``
 
