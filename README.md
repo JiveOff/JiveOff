@@ -6,6 +6,8 @@
 
 > I mainly work with the Vue.js framework/ecosystem for front-end applications and write back-end using Node.js along with TypeScript. ⚡
 
+> I also do infrastructure work in some of my projects. I tend to use tools like Docker for containerisation and orchestration.
+
 ### 😄 Pronouns: ``He/him``
 
 ### 🤓 Examples of my work
