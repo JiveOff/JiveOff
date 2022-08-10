@@ -6,6 +6,8 @@
 
 > Je travaille à fond avec le framework Vue.js pour mes applications front et du Node/TS pour mes applis back. ⚡
 
+> Je pratique aussi de la gestion d'infrastructure sur certains de mes projets. J'ai l'habitude d'utiliser des outils comme Docker pour la "containerisation" et l'orchestration des différents services.
+
 ### 😄 Pronoms: ``He/him``
 
 ### 🤓 Portfolio
