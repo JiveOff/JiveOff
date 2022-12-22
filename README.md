@@ -38,5 +38,6 @@
 > - [Twitter](https://twitter.com/JiveOff)
 > - [Twitch](https://twitch.tv/jiveoff)
 > - [Server Discord](https://discord.jiveoff.fr)
+> - [Keybase](https://keybase.io/jiveoff)
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jiveoff" style="width: 450px">
