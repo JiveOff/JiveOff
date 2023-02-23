@@ -4,21 +4,10 @@
 
 > Je suis Antoine, développeur JavaScript Full-Stack à ses heures perdues. J'adore concevoir et intégrer des interfaces utilisateur pour des petits projets personnels et communautaires. J'ai en ma possession un DUT Informatique et je suis actuellement en cursus d'ingénieur "LSI" à l'EFREI.
 
-> Je travaille à fond avec le framework Vue.js pour mes applications front et du Node/TS pour mes applis back. ⚡
-
-> Je pratique aussi de la gestion d'infrastructure sur certains de mes projets. J'ai l'habitude d'utiliser des outils comme Docker pour la "containerisation" et l'orchestration des différents services.
-
-### 😄 Pronoms: ``He/him``
+> Je travaille à fond avec le framework Vue.js pour mes applications front et du Node/TS pour mes applis back. Je pratique aussi de la gestion d'infrastructure sur certains de mes projets. J'ai l'habitude d'utiliser des outils comme Docker pour la "containerisation" et l'orchestration des différents services. ⚡
 
 ### 🤓 Portfolio
 
-> - [Projet du semestre 1 du DUT Informatique](https://pjs1.jiveoff.fr)
->   - Technologies: **HTML5**, **Sass**, **Vue.js** (première fois avec ce framework), **Firebase** ([vuejs/vuefire](https://github.com/vuejs/vuefire)).
-> - [Projet du semestre 2 du DUT Informatique](https://eweb.jiveoff.fr)
->   - Technologies: **HTML5**, **Sass**, **Bootstrap**, **Vue.js** (Vuex, Vue-Router...).
-> - [Site des "Beat Saber Nationals"](https://beatsabernationals.com)
->   - Technologies: **HTML5**, **Sass**, **Bulma** (intégré à Vue avec [buefy](https://github.com/buefy/buefy)), **Vue.js**.
-> - [Overlay pour le stream Twitch des Beat Saber Nationals](https://www.twitch.tv/bsnationals)
 >   - Technologies: **HTML5**, **Sass**, **Vue.js**, **Socket.io**. 
 > - [Outils pour Stepford County Railway](https://discord.gg/scr)
 >   - Je m'occupe de 4 robots maison et d'autres outils qui permettent de faire fonctionner de façon optimale notre groupe de 200k membres sur Roblox.
@@ -38,6 +27,11 @@
 > - [Twitter](https://twitter.com/JiveOff)
 > - [Twitch](https://twitch.tv/jiveoff)
 > - [Serveur Discord](https://discord.jiveoff.fr)
-> - [Keybase](https://keybase.io/jiveoff)
+
+### 🔑 Public Keys
+
+> ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYtB1Kc3m3txqZqvOl5Z2K2b73IdvtrIlX1pl13yuf0BH32PTXlNQ1wpVydk3os6zJKX5bNewxQY5t5RUdrLQKY0LWssMteo3wMQEd34E5aFkrB+a2l8+zniFFXizFkV2RR1y1NbWNlp7A7FclZEoA7YUIfaqfp/b8zwBmEN4k6Eu0nlTSdILCjh3IxkqhCJsD4CsKg2IDCiCX5+IQBZ5/FA4x+V4B9zyUx2v/xSHVWTb8cDZ4nHgCcaLJg7mBYR/ye7HIN4NpZF3CvprzLRqBhIJWIW9C3WjFBh5OjZcUM0nHJ84JrkwdtR+d59ijDV7estJRywccj8mRt7tL71IR antoine@jiveoff.fr
+
+> GPG on [Keybase](https://keybase.io/jiveoff/pgp_keys.asc)
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jiveoff" style="width: 450px">
