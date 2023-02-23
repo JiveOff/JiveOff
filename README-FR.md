@@ -8,7 +8,6 @@
 
 ### 🤓 Portfolio
 
->   - Technologies: **HTML5**, **Sass**, **Vue.js**, **Socket.io**. 
 > - [Outils pour Stepford County Railway](https://discord.gg/scr)
 >   - Je m'occupe de 4 robots maison et d'autres outils qui permettent de faire fonctionner de façon optimale notre groupe de 200k membres sur Roblox.
 >   -   **SCR Admin** Bot de moderation qui agît sur nos API internes.
