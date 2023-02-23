@@ -4,22 +4,10 @@
 
 > I am Antoine, a hobby Full-Stack Javascript developer. I love designing & integrating UI/UX for personal and community projects. I have completed a Computer Science course at the Université de Paris and I am currently studying to achieve a Software Engineering Degree at EFREI.
 
-> I mainly work with the Vue.js framework/ecosystem for front-end applications and write back-end using Node.js along with TypeScript. ⚡
-
-> I also do infrastructure work in some of my projects. I tend to use tools like Docker for containerisation and orchestration.
-
-### 😄 Pronouns: ``He/him``
+> I mainly work with the Vue.js framework/ecosystem for front-end applications and write back-end using Node.js along with TypeScript. I also do infrastructure work in some of my projects. I tend to use tools like Docker for containerisation and orchestration. ⚡
 
 ### 🤓 Examples of my work
 
-> - [Website for my first University project](https://pjs1.jiveoff.fr)
->   - Technologies used: **HTML5**, **Sass**, **Vue.js** (first time using it woo), **Firebase** ([vuejs/vuefire](https://github.com/vuejs/vuefire)).
-> - [Website for my second University project](https://eweb.jiveoff.fr)
->   - Technologies used: **HTML5**, **Sass**, **Bootstrap**, **Vue.js** (Vuex, Vue-Router...).
-> - [Website for the Beat Saber Nationals](https://beatsabernationals.com)
->   - Technologies used: **HTML5**, **Sass**, **Bulma** (integrated with [buefy](https://github.com/buefy/buefy)), **Vue.js**.
-> - [Stream Overlay w/ tools for the Beat Saber Nationals](https://www.twitch.tv/bsnationals)
->   - Technologies used: **HTML5**, **Sass**, **Vue.js**, **Socket.io**. 
 > - [Stepford County Railway Discord bots](https://discord.gg/scr)
 >   - Maintaining 4 bots made from scratch and various tools for smooth operations within a group of 200k members.
 >   -   **SCR Admin** Moderation Bot with API tools.
@@ -37,7 +25,12 @@
 
 > - [Twitter](https://twitter.com/JiveOff)
 > - [Twitch](https://twitch.tv/jiveoff)
-> - [Server Discord](https://discord.jiveoff.fr)
-> - [Keybase](https://keybase.io/jiveoff)
+> - [Discord Server](https://discord.jiveoff.fr)
+
+### 🔑 Public Keys
+
+> ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYtB1Kc3m3txqZqvOl5Z2K2b73IdvtrIlX1pl13yuf0BH32PTXlNQ1wpVydk3os6zJKX5bNewxQY5t5RUdrLQKY0LWssMteo3wMQEd34E5aFkrB+a2l8+zniFFXizFkV2RR1y1NbWNlp7A7FclZEoA7YUIfaqfp/b8zwBmEN4k6Eu0nlTSdILCjh3IxkqhCJsD4CsKg2IDCiCX5+IQBZ5/FA4x+V4B9zyUx2v/xSHVWTb8cDZ4nHgCcaLJg7mBYR/ye7HIN4NpZF3CvprzLRqBhIJWIW9C3WjFBh5OjZcUM0nHJ84JrkwdtR+d59ijDV7estJRywccj8mRt7tL71IR antoine@jiveoff.fr
+
+> GPG on [Keybase](https://keybase.io/jiveoff/pgp_keys.asc)
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jiveoff" style="width: 450px">
