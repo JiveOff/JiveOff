@@ -6,6 +6,12 @@
 
 > Je travaille à fond avec le framework Vue.js pour mes applications front et du Node/TS pour mes applis back. Je pratique aussi de la gestion d'infrastructure sur certains de mes projets. J'ai l'habitude d'utiliser des outils comme Docker pour la "containerisation" et l'orchestration des différents services. ⚡
 
+### 🔑 Clés publiques
+
+> ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYtB1Kc3m3txqZqvOl5Z2K2b73IdvtrIlX1pl13yuf0BH32PTXlNQ1wpVydk3os6zJKX5bNewxQY5t5RUdrLQKY0LWssMteo3wMQEd34E5aFkrB+a2l8+zniFFXizFkV2RR1y1NbWNlp7A7FclZEoA7YUIfaqfp/b8zwBmEN4k6Eu0nlTSdILCjh3IxkqhCJsD4CsKg2IDCiCX5+IQBZ5/FA4x+V4B9zyUx2v/xSHVWTb8cDZ4nHgCcaLJg7mBYR/ye7HIN4NpZF3CvprzLRqBhIJWIW9C3WjFBh5OjZcUM0nHJ84JrkwdtR+d59ijDV7estJRywccj8mRt7tL71IR antoine@jiveoff.fr
+
+> GPG sur [Keybase](https://keybase.io/jiveoff/pgp_keys.asc)
+
 ### 🤓 Portfolio
 
 > - [Outils pour Stepford County Railway](https://discord.gg/scr)
@@ -20,12 +26,6 @@
 >   - Jeu multijoueur pour les joueurs en multi sur Genshin Impact. But du jeu: Deviner le rôle de chacun.
 >   - Technologies: **Vue.js**, **Socket.io**.
 >   - Design fait maison sur **Figma**.
-
-### 🔑 Clés publiques
-
-> ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYtB1Kc3m3txqZqvOl5Z2K2b73IdvtrIlX1pl13yuf0BH32PTXlNQ1wpVydk3os6zJKX5bNewxQY5t5RUdrLQKY0LWssMteo3wMQEd34E5aFkrB+a2l8+zniFFXizFkV2RR1y1NbWNlp7A7FclZEoA7YUIfaqfp/b8zwBmEN4k6Eu0nlTSdILCjh3IxkqhCJsD4CsKg2IDCiCX5+IQBZ5/FA4x+V4B9zyUx2v/xSHVWTb8cDZ4nHgCcaLJg7mBYR/ye7HIN4NpZF3CvprzLRqBhIJWIW9C3WjFBh5OjZcUM0nHJ84JrkwdtR+d59ijDV7estJRywccj8mRt7tL71IR antoine@jiveoff.fr
-
-> GPG on [Keybase](https://keybase.io/jiveoff/pgp_keys.asc)
 
 ### 💬 Liens utiles
 
