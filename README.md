@@ -21,16 +21,16 @@
 >   - Technologies used: **Vue.js**, **Socket.io**.
 >   - Design crafted on **Figma**.
 
-### 💬 Useful Links
-
-> - [Twitter](https://twitter.com/JiveOff)
-> - [Twitch](https://twitch.tv/jiveoff)
-> - [Discord Server](https://discord.jiveoff.fr)
-
 ### 🔑 Public Keys
 
 > ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYtB1Kc3m3txqZqvOl5Z2K2b73IdvtrIlX1pl13yuf0BH32PTXlNQ1wpVydk3os6zJKX5bNewxQY5t5RUdrLQKY0LWssMteo3wMQEd34E5aFkrB+a2l8+zniFFXizFkV2RR1y1NbWNlp7A7FclZEoA7YUIfaqfp/b8zwBmEN4k6Eu0nlTSdILCjh3IxkqhCJsD4CsKg2IDCiCX5+IQBZ5/FA4x+V4B9zyUx2v/xSHVWTb8cDZ4nHgCcaLJg7mBYR/ye7HIN4NpZF3CvprzLRqBhIJWIW9C3WjFBh5OjZcUM0nHJ84JrkwdtR+d59ijDV7estJRywccj8mRt7tL71IR antoine@jiveoff.fr
 
 > GPG on [Keybase](https://keybase.io/jiveoff/pgp_keys.asc)
+
+### 💬 Useful Links
+
+> - [Twitter](https://twitter.com/JiveOff)
+> - [Twitch](https://twitch.tv/jiveoff)
+> - [Discord Server](https://discord.jiveoff.fr)
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jiveoff" style="width: 450px">
