@@ -8,9 +8,9 @@
 
 ### 🔑 Public Keys
 
-> ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDKJqMKHrJUN9jseg9f+oGh5WA0qpQO73BdWg5GHrLn54PhWJTnODQ1a2rgg4eE/i3Y0eKWtVYtCOxOz4e53AYtOd5PnHnYK/6wEkdGmXdzUNxAfgC3Azs/iOH2ymFHOMlQ1oRQ5U01WMULRmsKxoZY40OHJPedhh/QDYWKLrp0vrL84bNCSy4nZirWSkI5U5SlWme/u9pwOTCmUJJESNp7NYYZt+DlgrT0yfNIj3VkVgJhuIBokWlXyLa8ck1rHDCic4X5sf8cn9ERKeBZby/P1ymaSkRrRGF6VWs4xy/rzeUs9+wqzxPjrnN0pQLJpQ4RoDY52AzhbmkNhHJV11Rc8hUtWmqh4T7y12synf5Wz9uKHT/nbU40NPwHR3JgzRYBV+rboiKzQ9irweS5LuVdYIdQBQxPPmKOZkwZvQYlmny/9aPWocGT4EHTm6UQLDZHKswMKFx4JA80nYvfpSoQMEhHMaFzFw7gtRvhhKraq/asshEQeLpaOuGDP2CgO/8= antoine@jiveoff.fr
+> [SSH Public Key](https://jiveoff.fr/ssh.pub)
 
-> GPG on [Keybase](https://keybase.io/jiveoff/pgp_keys.asc)
+> [GPG Public Key](https://jiveoff.fr/pgp_keys.asc)
 
 ### 🤓 Examples of my work
 
