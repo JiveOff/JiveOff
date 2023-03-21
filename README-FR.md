@@ -8,9 +8,9 @@
 
 ### 🔑 Clés publiques
 
-> [SSH Public Key](https://jiveoff.fr/ssh.pub)
+> [Clé publique SSH](https://jiveoff.fr/ssh.pub)
 
-> [GPG Public Key](https://jiveoff.fr/pgp_keys.asc)
+> [Clé publique GPG](https://jiveoff.fr/pgp_keys.asc)
 
 ### 🤓 Portfolio
 
