@@ -8,9 +8,9 @@
 
 ### 🔑 Clés publiques
 
-> ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYtB1Kc3m3txqZqvOl5Z2K2b73IdvtrIlX1pl13yuf0BH32PTXlNQ1wpVydk3os6zJKX5bNewxQY5t5RUdrLQKY0LWssMteo3wMQEd34E5aFkrB+a2l8+zniFFXizFkV2RR1y1NbWNlp7A7FclZEoA7YUIfaqfp/b8zwBmEN4k6Eu0nlTSdILCjh3IxkqhCJsD4CsKg2IDCiCX5+IQBZ5/FA4x+V4B9zyUx2v/xSHVWTb8cDZ4nHgCcaLJg7mBYR/ye7HIN4NpZF3CvprzLRqBhIJWIW9C3WjFBh5OjZcUM0nHJ84JrkwdtR+d59ijDV7estJRywccj8mRt7tL71IR antoine@jiveoff.fr
+> [SSH Public Key](https://jiveoff.fr/ssh.pub)
 
-> GPG sur [Keybase](https://keybase.io/jiveoff/pgp_keys.asc)
+> [GPG Public Key](https://jiveoff.fr/pgp_keys.asc)
 
 ### 🤓 Portfolio
 
