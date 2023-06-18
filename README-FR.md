@@ -18,6 +18,10 @@
 
 ### 🤓 Portfolio
 
+> - [Site de Cube Community](https://cube.community)
+>   - Intégration du front avec les technologies Nuxt & Vue 3.
+>   - Infrastructure: Environnements sans états avec Docker, déploiements automatiques & routage avec Traefik.
+>   - Overlay de stream temps réel pour nos diffusions de matchs sur Twitch.
 > - [Outils pour Stepford County Railway](https://discord.gg/scr)
 >   - Je m'occupe de 4 robots maison et d'autres outils qui permettent de faire fonctionner de façon optimale notre groupe de 200k membres sur Roblox.
 >   -   **SCR Admin** Bot de moderation qui agît sur nos API internes.
