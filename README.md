@@ -18,6 +18,10 @@
 
 ### 🤓 Examples of my work
 
+> - [Cube Community Website](https://cube.community)
+>   - Front-end integration with Nuxt & Vue 3.
+>   - Infrastructure works: Stateless environments with Docker, automatic deployments & routing with Traefik.
+>   - Streaming Overlay for our Twitch broadcast.
 > - [Stepford County Railway Discord bots](https://discord.gg/scr)
 >   - Maintaining 4 bots made from scratch and various tools for smooth operations within a group of 200k members.
 >   -   **SCR Admin** Moderation Bot with API tools.
