@@ -22,18 +22,14 @@
 >   - Front-end integration with Nuxt & Vue 3.
 >   - Infrastructure works: Stateless environments with Docker, automatic deployments & routing with Traefik.
 >   - Streaming Overlay for our Twitch broadcast.
-> - [Stepford County Railway Discord bots](https://discord.gg/scr)
->   - Maintaining 4 bots made from scratch and various tools for smooth operations within a group of 200k members.
->   -   **SCR Admin** Moderation Bot with API tools.
->   -   **SCR Trainer** Bot showing the next trainings.
->   -   **SCR Assistance** Assistance Bot with a custom ticket system.
->   -   **SCR Transcript** TTS/STT Bot that connects to voice channels to help supervisors+ that have disabilities.
 > - [Some Front-end components for ScoreSaber](https://scoresaber.com)
 >   - Technologies used: **Svelte**
 > - [Among Impact](https://among-impact.jiveoff.fr)
 >   - Game for people playing the co-op mode of Genshin Impact. Only French is supported at the moment.
 >   - Technologies used: **Vue.js**, **Socket.io**.
 >   - Design crafted on **Figma**.
+> - [Stepford County Railway Discord bots](https://discord.gg/scr)
+>   - Maintained 4 bots made from scratch and various tools for smooth operations within a Roblox group of 200k members.
 
 ### 💬 Useful Links
 
