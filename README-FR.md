@@ -22,18 +22,14 @@
 >   - Intégration du front avec les technologies Nuxt & Vue 3.
 >   - Infrastructure: Environnements sans états avec Docker, déploiements automatiques & routage avec Traefik.
 >   - Overlay de stream temps réel pour nos diffusions de matchs sur Twitch.
-> - [Outils pour Stepford County Railway](https://discord.gg/scr)
->   - Je m'occupe de 4 robots maison et d'autres outils qui permettent de faire fonctionner de façon optimale notre groupe de 200k membres sur Roblox.
->   -   **SCR Admin** Bot de moderation qui agît sur nos API internes.
->   -   **SCR Trainer** Bot qui permet d'avoir des infos sur les examens pour passer aux rangs supérieurs.
->   -   **SCR Assistance** Bot de ticketing permettant aux membres de contacter le staff sous forme de tickets.
->   -   **SCR Transcript** Bot TTS/STT qui transcrit tout ce qui est dit dans un canal vocal pour les personnes ayant des difficultés auditives.
 > - [Composants pour le front de ScoreSaber](https://scoresaber.com)
 >   - Technologie: **Svelte**
 > - [Among Impact](https://among-impact.jiveoff.fr)
 >   - Jeu multijoueur pour les joueurs en multi sur Genshin Impact. But du jeu: Deviner le rôle de chacun.
 >   - Technologies: **Vue.js**, **Socket.io**.
 >   - Design fait maison sur **Figma**.
+> - [Outils pour Stepford County Railway](https://discord.gg/scr)
+>   - Je m'occupais de 4 robots maison et d'autres outils qui permettent de faire fonctionner de façon optimale notre groupe de 200k membres sur Roblox.
 
 ### 💬 Liens utiles
 
