@@ -2,7 +2,7 @@
 
 ## Salut 👋
 
-> Je suis Antoine, développeur JavaScript Full-Stack à ses heures perdues. J'adore concevoir et intégrer des interfaces utilisateur pour des petits projets personnels et communautaires. J'ai en ma possession un DUT Informatique et je suis actuellement en cursus d'ingénieur "LSI" à l'EFREI.
+> Je suis Antoine, développeur JavaScript Full-Stack à ses heures perdues & ingénieur DevOps. J'aime concevoir et intégrer des interfaces utilisateur pour des petits projets personnels et communautaires. J'ai en ma possession un DUT Informatique & diplôme d'ingénieur de l'EFREI.
 
 > Je travaille à fond avec le framework Vue.js pour mes applications front et du Node/TS pour mes applis back. Je pratique aussi de la gestion d'infrastructure sur certains de mes projets. J'ai l'habitude d'utiliser des outils comme Docker pour la "containerisation" et l'orchestration des différents services. ⚡
 
